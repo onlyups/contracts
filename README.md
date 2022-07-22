@@ -1,4 +1,4 @@
-# contracts
+## OnlyUps contracts
 OnlyUps Solidity Contract Collection
 
 
