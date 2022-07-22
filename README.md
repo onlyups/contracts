@@ -1,4 +1,4 @@
-## OnlyUps contracts
+## OnlyUps.xyz contracts
 OnlyUps Solidity Contract Collection
 
 #### OpenSea Seaport-integrated DeFi contracts of OnlyUps.xyz (l1)
